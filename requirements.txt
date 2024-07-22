@@ -1,3 +1,3 @@
-#installed
 langchain
 openai
+langchain-openai
